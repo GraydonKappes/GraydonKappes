@@ -1,5 +1,12 @@
-## Hi there 👋
+Hi, my name is Graydon 
 
+-I am currently working on building a variety of construction management tools
+-I am currently learning how much I hate developing IOS apps on a windows machine :))
+-I like to think I am good at system architecture, and am always open to collaborative work, especially profitable collaborative work.
+-I am not looking for help with current work
+-Reach out at jetplaneai@gmail.com
+
+-This emoticon is pretty sweet: (-_(-_(-_-)_-)_-)
 <!--
 **GraydonKappes/GraydonKappes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
