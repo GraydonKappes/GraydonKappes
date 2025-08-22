@@ -5,7 +5,7 @@
 - I like to think I am good at system architecture, and am always open to collaborative work, especially the profitable kind.
 - I am not looking for help with current work
 - Reach out at jetplaneai@gmail.com
-- This emoticon is pretty sweet: `(-_(-_(-_-)_-)_-)`
+- Here is a badass emoticon: `(-_(-_(-_-)_-)_-)`
 <!--
 **GraydonKappes/GraydonKappes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
