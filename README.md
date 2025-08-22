@@ -1,7 +1,7 @@
 # Hi, I'm Graydon
 
 - I am currently working on building a variety of construction management tools
-- I am currently learning how much I hate developing iOS apps on a Windows machine :))
+- I am currently learning how much I hate developing IOS apps on a Windows machine :))
 - I like to think I am good at system architecture, and am always open to collaborative work, especially the profitable kind.
 - I am not looking for help with current work
 - Reach out at jetplaneai@gmail.com
